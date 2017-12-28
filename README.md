@@ -33,7 +33,9 @@
 
 `export NODE_PATH=/usr/lib/node_modules`
 
+6、启动testrpc或ganache-cli
 
-6、node执行脚本
+
+7、node执行脚本
 
 `node example.js`
